@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705320056 source:d:\proiecte extra\razboi_in_8\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
